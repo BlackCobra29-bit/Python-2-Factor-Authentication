@@ -7,5 +7,3 @@ Features
 *   **SMS Authentication**: Secure login using one-time passcodes sent via SMS.
     
 *   **QR Code Generation**: Easy setup and scanning for 2FA using QR codes.
-    
-*   **Simple Integration**: Straightforward examples and documentation for quick implementation.
